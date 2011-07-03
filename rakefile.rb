@@ -10,7 +10,7 @@ require 'albacore'
 load "VERSION.txt"
 
 RESULTS_DIR = "results"
-PRODUCT = "FubuCore"
+PRODUCT = "FubuCore.StructureMap"
 COPYRIGHT = 'Copyright 2008-2011 Jeremy D. Miller, Josh Arnold, Joshua Flanagan, et al. All rights reserved.';
 COMMON_ASSEMBLY_INFO = 'src/CommonAssemblyInfo.cs';
 
